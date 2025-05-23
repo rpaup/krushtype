@@ -1,0 +1,5 @@
+Number,Mode,WPM,RawWPM,Accuracy,Consistency,Date,IsNumbers,IsPunctuation,Language,Chars,RestartCount,Time,IsRecord, QuoteLength
+2,words 10,9,626,1.52,100,2025-05-22 22:51:47,False,False,russian,1/63,0,00:00:01,True
+2,words 10,0,442,0,100,2025-05-22 22:58:22,False,False,russian,0/44,0,00:00:01,False
+3,words 10,122,128,95,90.72,2025-05-23 00:04:59,False,False,russian,57/2,0,00:00:05,True
+4,words 10,20,201,9.8,72.73,2025-05-23 00:37:58,False,False,russian,5/45,0,00:00:03,False

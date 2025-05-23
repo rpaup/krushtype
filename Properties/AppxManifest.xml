@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Directives xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:schemas-microsoft-com:assembly">
+  <Application>
+    <Legacyicon v2="Assets\images\licon.png" />
+    <Windowsmetadata>
+      <Square30x30Logo>Assets\images\licon.png</Square30x30Logo>
+      <Square44x44Logo>Assets\images\licon.png</Square44x44Logo>
+      <Square70x70Logo>Assets\images\licon.png</Square70x70Logo>
+      <Square71x71Logo>Assets\images\licon.png</Square71x71Logo>
+      <Square150x150Logo>Assets\images\licon.png</Square150x150Logo>
+      <Square310x310Logo>Assets\images\licon.png</Square310x310Logo>
+      <Wide310x150Logo>Assets\images\licon.png</Wide310x150Logo>
+    </Windowsmetadata>
+  </Application>
+</Directives>

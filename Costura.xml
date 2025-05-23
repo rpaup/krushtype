@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<costura>
+  <includeAssemblies>
+    Newtonsoft.Json
+    Ookii.Dialogs.Wpf
+    OxyPlot
+    OxyPlot.Wpf
+    OxyPlot.Wpf.Shared
+  </includeAssemblies>
+  <includeRuntimeAssemblies>
+    System.*
+    Microsoft.*
+    mscorlib
+  </includeRuntimeAssemblies>
+  <excludeAssemblies>
+    xunit*
+    nunit*
+  </excludeAssemblies>
+</costura>

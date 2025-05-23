@@ -1,0 +1,479 @@
+<Window x:Class="krushtype.UI.Views.NewAuthWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:krushtype.UI.Views"
+        xmlns:converters="clr-namespace:krushtype.Core.Utilities.Converters"
+        mc:Ignorable="d"
+        Title="Authentication" Height="500" Width="450"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True"
+        WindowStyle="None"
+        ResizeMode="NoResize">
+
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/UI/Styles/ThemeColors.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+            
+            <!-- Converters -->
+            <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+
+            <!-- Animations -->
+            <Storyboard x:Key="ShowErrorMessage">
+                <DoubleAnimation Storyboard.TargetProperty="Opacity"
+                                From="0" To="1"
+                                Duration="0:0:0.2"/>
+                <ThicknessAnimation Storyboard.TargetProperty="Margin"
+                                   From="0,-10,0,0" To="0,0,0,0"
+                                   Duration="0:0:0.2"/>
+            </Storyboard>
+        </ResourceDictionary>
+    </Window.Resources>
+
+    <!-- Main Container with Border that matches the main app style -->
+    <Border 
+        Background="{DynamicResource BgColorBrush}" 
+        BorderBrush="{DynamicResource SubAltColorBrush}"
+        CornerRadius="8" 
+        BorderThickness="1"
+        Margin="5">
+        
+        <!-- Main Layout Grid -->
+        <Grid>
+            <Grid.RowDefinitions>
+                <!-- Header area -->
+                <RowDefinition Height="60"/>
+                <!-- Content area -->
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            
+            <!-- Header with window controls -->
+            <Grid Grid.Row="0" MouseLeftButtonDown="Grid_MouseLeftButtonDown">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                
+                <!-- App Logo/Name -->
+                <StackPanel Grid.Column="0"
+                            Orientation="Horizontal"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Center"
+                            Margin="20,0,0,0">
+                    <TextBlock 
+                        Text="krushtype"
+                        Foreground="{DynamicResource MainColorBrush}"
+                        FontSize="24"/>
+                </StackPanel>
+                
+                <!-- Window Controls -->
+                <StackPanel Grid.Column="1"
+                            Orientation="Horizontal"
+                            HorizontalAlignment="Right"
+                            Margin="0,0,10,0">
+                    <!-- Minimize Button -->
+                    <Button x:Name="MinimizeButton"
+                            Width="30" Height="30"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Margin="0,0,5,0"
+                            Click="MinimizeButton_Click">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border x:Name="border" 
+                                        Background="{TemplateBinding Background}" 
+                                        CornerRadius="4">
+                                    <Path Data="M0,0 L10,0" 
+                                          Stroke="{DynamicResource TextColorBrush}" 
+                                          StrokeThickness="1" 
+                                          HorizontalAlignment="Center" 
+                                          VerticalAlignment="Center"/>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="border" Property="Background" Value="{DynamicResource WindowButtonHoverBrush}"/>
+                                    </Trigger>
+                                    <Trigger Property="IsPressed" Value="True">
+                                        <Setter TargetName="border" Property="Background" Value="{DynamicResource WindowButtonPressedBrush}"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                    
+                    <!-- Close Button -->
+                    <Button x:Name="CloseButton"
+                            Width="30" Height="30"
+                            Background="Transparent"
+                            BorderThickness="0"
+                            Click="CloseButton_Click">
+                        <Button.Template>
+                            <ControlTemplate TargetType="Button">
+                                <Border x:Name="border" 
+                                        Background="{TemplateBinding Background}" 
+                                        CornerRadius="4">
+                                    <Path Data="M0,0 L8,8 M8,0 L0,8" 
+                                          Stroke="{DynamicResource TextColorBrush}" 
+                                          StrokeThickness="1.5" 
+                                          HorizontalAlignment="Center" 
+                                          VerticalAlignment="Center"/>
+                                </Border>
+                                <ControlTemplate.Triggers>
+                                    <Trigger Property="IsMouseOver" Value="True">
+                                        <Setter TargetName="border" Property="Background" Value="{DynamicResource WindowButtonHoverBrush}"/>
+                                    </Trigger>
+                                    <Trigger Property="IsPressed" Value="True">
+                                        <Setter TargetName="border" Property="Background" Value="{DynamicResource WindowButtonPressedBrush}"/>
+                                    </Trigger>
+                                </ControlTemplate.Triggers>
+                            </ControlTemplate>
+                        </Button.Template>
+                    </Button>
+                </StackPanel>
+            </Grid>
+            
+            <!-- Content area with slides for login and registration -->
+            <Grid Grid.Row="1" Margin="0,10,0,20">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="450"/>
+                    <ColumnDefinition Width="450"/>
+                </Grid.ColumnDefinitions>
+                
+                <!-- Login View -->
+                <Grid Grid.Column="0" x:Name="LoginView" Margin="0">
+                    <StackPanel Margin="40,10,40,20">
+                        <!-- Header -->
+                        <TextBlock Text="Sign In" 
+                                  FontSize="24" 
+                                  FontWeight="SemiBold" 
+                                  Foreground="{DynamicResource TextColorBrush}" 
+                                  HorizontalAlignment="Center" 
+                                  Margin="0,0,0,25"/>
+                        
+                        <!-- Username -->
+                        <TextBlock Text="Username" 
+                                  Foreground="{DynamicResource TextColorBrush}" 
+                                  FontWeight="SemiBold"
+                                  FontSize="13"
+                                  Margin="0,0,0,8"/>
+                        <Border Background="{DynamicResource SubAltColorBrush}" 
+                                BorderThickness="1"
+                                BorderBrush="{DynamicResource SubColorBrush}"
+                                CornerRadius="5" 
+                                Margin="0,0,0,20">
+                            <TextBox x:Name="LoginUsernameTextBox"
+                                    BorderThickness="0" 
+                                    Background="Transparent" 
+                                    Padding="12,10" 
+                                    Height="40" 
+                                    FontSize="14"
+                                    CaretBrush="{DynamicResource CaretColorBrush}"
+                                    Foreground="{DynamicResource TextColorBrush}"/>
+                        </Border>
+                        
+                        <!-- Password -->
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+                            
+                            <TextBlock Text="Password" 
+                                      Foreground="{DynamicResource TextColorBrush}" 
+                                      FontWeight="SemiBold"
+                                      FontSize="13"
+                                      Margin="0,0,0,8"/>
+                            
+                            <Button Grid.Column="1"
+                                    x:Name="LoginTogglePasswordButton" 
+                                    Content="Show" 
+                                    Foreground="{DynamicResource MainColorBrush}" 
+                                    Background="Transparent"
+                                    BorderThickness="0"
+                                    Height="20"
+                                    Padding="8,0"
+                                    HorizontalAlignment="Right" 
+                                    VerticalAlignment="Top"
+                                    Cursor="Hand"
+                                    Click="ToggleLoginPasswordVisibility_Click"/>
+                        </Grid>
+                        
+                        <!-- Password Input -->
+                        <Grid Margin="0,0,0,20">
+                            <Border Background="{DynamicResource SubAltColorBrush}" 
+                                    BorderThickness="1"
+                                    BorderBrush="{DynamicResource SubColorBrush}"
+                                    CornerRadius="5">
+                                <PasswordBox x:Name="LoginPasswordBox" 
+                                           BorderThickness="0" 
+                                           Background="Transparent" 
+                                           Padding="12,10" 
+                                           Height="40" 
+                                           FontSize="14" 
+                                           Foreground="{DynamicResource TextColorBrush}"
+                                           PasswordChanged="LoginPasswordBox_PasswordChanged"/>
+                            </Border>
+                            
+                            <Border Background="{DynamicResource SubAltColorBrush}" 
+                                    BorderThickness="1"
+                                    BorderBrush="{DynamicResource SubColorBrush}"
+                                    CornerRadius="5" 
+                                    Visibility="Collapsed">
+                                <TextBox x:Name="LoginPasswordTextBox" 
+                                       BorderThickness="0" 
+                                       Background="Transparent" 
+                                       Padding="12,10" 
+                                       Height="40" 
+                                       FontSize="14" 
+                                       CaretBrush="{DynamicResource CaretColorBrush}"
+                                       Foreground="{DynamicResource TextColorBrush}"
+                                       TextChanged="LoginPasswordTextBox_TextChanged"/>
+                            </Border>
+                        </Grid>
+                        
+                        <!-- Error Message -->
+                        <TextBlock x:Name="LoginErrorMessage" 
+                                  Foreground="{DynamicResource ErrorColorBrush}" 
+                                  TextWrapping="Wrap" 
+                                  Margin="0,0,0,20" 
+                                  Opacity="0"/>
+                        
+                        <!-- Sign In Button -->
+                        <Button x:Name="LoginButton" 
+                                Content="Sign In" 
+                                Height="44" 
+                                FontSize="14" 
+                                FontWeight="SemiBold"
+                                Foreground="{DynamicResource BgColorBrush}" 
+                                Background="{DynamicResource MainColorBrush}" 
+                                BorderThickness="0" 
+                                Margin="0,10,0,0"
+                                Cursor="Hand"
+                                Click="LoginButton_Click">
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="{TemplateBinding Background}" 
+                                            CornerRadius="5"
+                                            x:Name="border">
+                                        <ContentPresenter HorizontalAlignment="Center" 
+                                                        VerticalAlignment="Center"/>
+                                    </Border>
+                                    <ControlTemplate.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter TargetName="border" Property="Opacity" Value="0.9"/>
+                                        </Trigger>
+                                        <Trigger Property="IsPressed" Value="True">
+                                            <Setter TargetName="border" Property="Opacity" Value="0.8"/>
+                                        </Trigger>
+                                    </ControlTemplate.Triggers>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+                        
+                        <!-- Register Link -->
+                        <StackPanel Orientation="Horizontal" 
+                                    HorizontalAlignment="Center" 
+                                    Margin="0,20,0,0">
+                            <TextBlock Text="Don't have an account?" 
+                                      Foreground="{DynamicResource SubColorBrush}"/>
+                            <Button Content="Register" 
+                                    Foreground="{DynamicResource MainColorBrush}" 
+                                    Background="Transparent" 
+                                    BorderThickness="0"
+                                    Cursor="Hand"
+                                    Margin="5,0,0,0"
+                                    Click="SwitchToRegister_Click"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+
+                <!-- Registration View -->
+                <Grid Grid.Column="1" x:Name="RegisterView" Margin="450,0,0,0">
+                    <StackPanel Margin="40,10,40,20">
+                        <!-- Header -->
+                        <TextBlock Text="Create Account" 
+                                  FontSize="24" 
+                                  FontWeight="SemiBold" 
+                                  Foreground="{DynamicResource TextColorBrush}" 
+                                  HorizontalAlignment="Center" 
+                                  Margin="0,0,0,25"/>
+                        
+                        <!-- Username -->
+                        <TextBlock Text="Username" 
+                                  Foreground="{DynamicResource TextColorBrush}" 
+                                  FontWeight="SemiBold"
+                                  FontSize="13"
+                                  Margin="0,0,0,8"/>
+                        <Border Background="{DynamicResource SubAltColorBrush}" 
+                                BorderThickness="1"
+                                BorderBrush="{DynamicResource SubColorBrush}"
+                                CornerRadius="5" 
+                                Margin="0,0,0,15">
+                            <TextBox x:Name="RegisterUsernameTextBox" 
+                                    BorderThickness="0" 
+                                    Background="Transparent" 
+                                    Padding="12,10" 
+                                    Height="40" 
+                                    FontSize="14"
+                                    CaretBrush="{DynamicResource CaretColorBrush}"
+                                    Foreground="{DynamicResource TextColorBrush}"/>
+                        </Border>
+                        
+                        <!-- Email -->
+                        <TextBlock Text="Email" 
+                                  Foreground="{DynamicResource TextColorBrush}" 
+                                  FontWeight="SemiBold"
+                                  FontSize="13"
+                                  Margin="0,0,0,8"/>
+                        <Border Background="{DynamicResource SubAltColorBrush}" 
+                                BorderThickness="1"
+                                BorderBrush="{DynamicResource SubColorBrush}"
+                                CornerRadius="5" 
+                                Margin="0,0,0,15">
+                            <TextBox x:Name="RegisterEmailTextBox" 
+                                    BorderThickness="0" 
+                                    Background="Transparent" 
+                                    Padding="12,10" 
+                                    Height="40" 
+                                    FontSize="14"
+                                    CaretBrush="{DynamicResource CaretColorBrush}"
+                                    Foreground="{DynamicResource TextColorBrush}"/>
+                        </Border>
+                        
+                        <!-- Password -->
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+                            
+                            <TextBlock Text="Password" 
+                                      Foreground="{DynamicResource TextColorBrush}" 
+                                      FontWeight="SemiBold"
+                                      FontSize="13"
+                                      Margin="0,0,0,8"/>
+                            
+                            <Button Grid.Column="1"
+                                    x:Name="RegisterTogglePasswordButton" 
+                                    Content="Show" 
+                                    Foreground="{DynamicResource MainColorBrush}" 
+                                    Background="Transparent"
+                                    BorderThickness="0"
+                                    Height="20"
+                                    Padding="8,0"
+                                    HorizontalAlignment="Right" 
+                                    VerticalAlignment="Top"
+                                    Cursor="Hand"
+                                    Click="ToggleRegisterPasswordVisibility_Click"/>
+                        </Grid>
+                        
+                        <!-- Password Input -->
+                        <Grid Margin="0,0,0,8">
+                            <Border Background="{DynamicResource SubAltColorBrush}" 
+                                    BorderThickness="1"
+                                    BorderBrush="{DynamicResource SubColorBrush}"
+                                    CornerRadius="5">
+                                <PasswordBox x:Name="RegisterPasswordBox" 
+                                           BorderThickness="0" 
+                                           Background="Transparent" 
+                                           Padding="12,10" 
+                                           Height="40" 
+                                           FontSize="14" 
+                                           Foreground="{DynamicResource TextColorBrush}"
+                                           PasswordChanged="RegisterPasswordBox_PasswordChanged"/>
+                            </Border>
+                            
+                            <Border Background="{DynamicResource SubAltColorBrush}" 
+                                    BorderThickness="1"
+                                    BorderBrush="{DynamicResource SubColorBrush}"
+                                    CornerRadius="5" 
+                                    Visibility="Collapsed">
+                                <TextBox x:Name="RegisterPasswordTextBox" 
+                                       BorderThickness="0" 
+                                       Background="Transparent" 
+                                       Padding="12,10" 
+                                       Height="40" 
+                                       FontSize="14"
+                                       CaretBrush="{DynamicResource CaretColorBrush}"
+                                       Foreground="{DynamicResource TextColorBrush}"
+                                       TextChanged="RegisterPasswordTextBox_TextChanged"/>
+                            </Border>
+                        </Grid>
+                        
+                        <!-- Password Strength Indicator -->
+                        <StackPanel Orientation="Horizontal" Margin="0,5,0,5">
+                            <Border x:Name="StrengthIndicator1" Width="80" Height="4" Margin="0,0,5,0" CornerRadius="2" Background="{DynamicResource SubColorBrush}"/>
+                            <Border x:Name="StrengthIndicator2" Width="80" Height="4" Margin="0,0,5,0" CornerRadius="2" Background="{DynamicResource SubColorBrush}"/>
+                            <Border x:Name="StrengthIndicator3" Width="80" Height="4" Margin="0,0,5,0" CornerRadius="2" Background="{DynamicResource SubColorBrush}"/>
+                            <Border x:Name="StrengthIndicator4" Width="80" Height="4" Margin="0,0,0,0" CornerRadius="2" Background="{DynamicResource SubColorBrush}"/>
+                        </StackPanel>
+                        
+                        <TextBlock x:Name="PasswordStrengthText" 
+                                  Text="Password strength" 
+                                  Foreground="{DynamicResource SubColorBrush}" 
+                                  FontSize="11" 
+                                  Margin="0,0,0,15"/>
+                        
+                        <!-- Error Message -->
+                        <TextBlock x:Name="RegisterErrorMessage" 
+                                  Foreground="{DynamicResource ErrorColorBrush}" 
+                                  TextWrapping="Wrap" 
+                                  Margin="0,0,0,15" 
+                                  Opacity="0"/>
+                        
+                        <!-- Register Button -->
+                        <Button x:Name="RegisterButton" 
+                                Content="Create Account" 
+                                Height="44" 
+                                FontSize="14" 
+                                FontWeight="SemiBold"
+                                Foreground="{DynamicResource BgColorBrush}" 
+                                Background="{DynamicResource MainColorBrush}" 
+                                BorderThickness="0" 
+                                Margin="0,5,0,0"
+                                Cursor="Hand"
+                                Click="RegisterButton_Click">
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border Background="{TemplateBinding Background}" 
+                                            CornerRadius="5"
+                                            x:Name="border">
+                                        <ContentPresenter HorizontalAlignment="Center" 
+                                                        VerticalAlignment="Center"/>
+                                    </Border>
+                                    <ControlTemplate.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter TargetName="border" Property="Opacity" Value="0.9"/>
+                                        </Trigger>
+                                        <Trigger Property="IsPressed" Value="True">
+                                            <Setter TargetName="border" Property="Opacity" Value="0.8"/>
+                                        </Trigger>
+                                    </ControlTemplate.Triggers>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+                        
+                        <!-- Login Link -->
+                        <StackPanel Orientation="Horizontal" 
+                                    HorizontalAlignment="Center" 
+                                    Margin="0,20,0,0">
+                            <TextBlock Text="Already have an account?" 
+                                      Foreground="{DynamicResource SubColorBrush}"/>
+                            <Button Content="Sign In" 
+                                    Foreground="{DynamicResource MainColorBrush}" 
+                                    Background="Transparent" 
+                                    BorderThickness="0"
+                                    Cursor="Hand"
+                                    Margin="5,0,0,0"
+                                    Click="SwitchToLogin_Click"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Border>
+</Window>

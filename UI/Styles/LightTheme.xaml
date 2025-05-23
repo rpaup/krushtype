@@ -1,0 +1,20 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <SolidColorBrush x:Key="BgColorBrush" Color="#e8e9ec" />
+    <SolidColorBrush x:Key="CaretColorBrush" Color="#262a3f" />
+    <SolidColorBrush x:Key="MainColorBrush" Color="#2d539e" />
+    <SolidColorBrush x:Key="SubColorBrush" Color="#adb1c4" />
+    <SolidColorBrush x:Key="SubAltColorBrush" Color="#ccceda" />
+    <SolidColorBrush x:Key="TextColorBrush" Color="#33374c" />
+    <SolidColorBrush x:Key="ErrorColorBrush" Color="#cc517a" />
+    <SolidColorBrush x:Key="ErrorExtraColorBrush" Color="#cc3768" />
+    <SolidColorBrush x:Key="ColorfulErrorColorBrush" Color="#cc517a" />
+    <SolidColorBrush x:Key="ColorfulErrorExtraColorBrush" Color="#cc3768" />
+    <SolidColorBrush x:Key="CorrectTextColorBrush" Color="#2d539e" />
+    <SolidColorBrush x:Key="TextMediumColorBrush" Color="#666b87" />
+    
+    <SolidColorBrush x:Key="WindowBorderBrush" Color="#ccceda" />
+    <SolidColorBrush x:Key="WindowButtonHoverBrush" Color="#d8d9dc" />
+    <SolidColorBrush x:Key="WindowButtonPressedBrush" Color="#c5c6c9" />
+</ResourceDictionary> 

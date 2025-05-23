@@ -1,0 +1,36 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <Color x:Key="LightBgColor">#e8e9ec</Color>
+    <Color x:Key="LightCaretColor">#262a3f</Color>
+    <Color x:Key="LightMainColor">#2d539e</Color>
+    <Color x:Key="LightSubColor">#adb1c4</Color>
+    <Color x:Key="LightSubAltColor">#ccceda</Color>
+    <Color x:Key="LightTextColor">#33374c</Color>
+    <Color x:Key="LightErrorColor">#cc517a</Color>
+    <Color x:Key="LightErrorExtraColor">#cc3768</Color>
+    <Color x:Key="LightColorfulErrorColor">#cc517a</Color>
+    <Color x:Key="LightColorfulErrorExtraColor">#cc3768</Color>
+    
+    <Color x:Key="DarkBgColor">#161821</Color>
+    <Color x:Key="DarkCaretColor">#d2d4de</Color>
+    <Color x:Key="DarkMainColor">#84a0c6</Color>
+    <Color x:Key="DarkSubColor">#595e76</Color>
+    <Color x:Key="DarkSubAltColor">#232531</Color>
+    <Color x:Key="DarkTextColor">#c6c8d1</Color>
+    <Color x:Key="DarkErrorColor">#e27878</Color>
+    <Color x:Key="DarkErrorExtraColor">#e2a478</Color>
+    <Color x:Key="DarkColorfulErrorColor">#e27878</Color>
+    <Color x:Key="DarkColorfulErrorExtraColor">#e2a478</Color>
+    
+    <SolidColorBrush x:Key="BgColorBrush" Color="{StaticResource LightBgColor}" />
+    <SolidColorBrush x:Key="CaretColorBrush" Color="{StaticResource LightCaretColor}" />
+    <SolidColorBrush x:Key="MainColorBrush" Color="{StaticResource LightMainColor}" />
+    <SolidColorBrush x:Key="SubColorBrush" Color="{StaticResource LightSubColor}" />
+    <SolidColorBrush x:Key="SubAltColorBrush" Color="{StaticResource LightSubAltColor}" />
+    <SolidColorBrush x:Key="TextColorBrush" Color="{StaticResource LightTextColor}" />
+    <SolidColorBrush x:Key="ErrorColorBrush" Color="{StaticResource LightErrorColor}" />
+    <SolidColorBrush x:Key="ErrorExtraColorBrush" Color="{StaticResource LightErrorExtraColor}" />
+    <SolidColorBrush x:Key="ColorfulErrorColorBrush" Color="{StaticResource LightColorfulErrorColor}" />
+    <SolidColorBrush x:Key="ColorfulErrorExtraColorBrush" Color="{StaticResource LightColorfulErrorExtraColor}" />
+</ResourceDictionary> 

@@ -1,0 +1,46 @@
+﻿<Application x:Class="krushtype.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:krushtype"
+             xmlns:vm="clr-namespace:krushtype.Core.ViewModels"
+             xmlns:view="clr-namespace:krushtype.UI.Views"
+             xmlns:cvtr="clr-namespace:krushtype.Core.Utilities.Converters">
+    <Application.Resources>
+        <ResourceDictionary>
+            <cvtr:BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+            
+            <DataTemplate DataType="{x:Type vm:LoginVM}">
+                <view:Login/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:RegisterVM}">
+                <view:Register/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:accountVM}">
+                <view:account/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:typingVM}">
+                <view:typing/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type vm:TestResultsVM}">
+                <view:TestResults/>
+            </DataTemplate>
+            
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/krushtype;component/UI/Styles/ThemeColors.xaml"/>
+                
+                <ResourceDictionary Source="pack://application:,,,/krushtype;component/UI/Styles/LightTheme.xaml"/>
+                
+                <ResourceDictionary Source="pack://application:,,,/krushtype;component/UI/Styles/Effects.xaml"/>
+                
+                <ResourceDictionary Source="pack://application:,,,/krushtype;component/UI/Styles/textblockstyle.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/krushtype;component/UI/Styles/buttonstyle.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/krushtype;component/UI/Styles/radiobuttonstyle.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/krushtype;component/UI/Styles/checkboxstyle.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/krushtype;component/UI/Styles/textboxstyle.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/krushtype;component/UI/Styles/stackpanelstyle.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/krushtype;component/UI/Styles/DataGridstyle.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/krushtype;component/UI/Styles/MainNavigationButtonStyle.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

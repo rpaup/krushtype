@@ -1,0 +1,103 @@
+﻿<Window x:Class="krushtype.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:vm="clr-namespace:krushtype.Core.ViewModels"
+        xmlns:converters="clr-namespace:krushtype.Core.Utilities.Converters"
+        xmlns:controls="clr-namespace:krushtype.UI.UserControls"
+        mc:Ignorable="d"
+        Height="610" Width="1090"
+        MinWidth="1090" MinHeight="610"
+        ResizeMode="CanResizeWithGrip"
+        WindowStartupLocation="CenterScreen"
+        Background="{DynamicResource BgColorBrush}"
+        BorderThickness="0"
+        Title="krushtype"
+        Icon="/Assets/images/licon.png">
+    <Window.Resources>
+        <converters:ActiveViewToBooleanConverter x:Key="ActiveViewToBooleanConverter"/>
+    </Window.Resources>
+    <Border 
+        Background="{DynamicResource BgColorBrush}" 
+        BorderBrush="{DynamicResource SubAltColorBrush}"
+        CornerRadius="8" 
+        BorderThickness="1"
+        Margin="5">
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="60"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            
+            <Grid Grid.Row="0" x:Name="HeaderGrid">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="250"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="250"/>
+                </Grid.ColumnDefinitions>
+                
+                <StackPanel Grid.Column="0"
+                            Orientation="Horizontal"
+                            HorizontalAlignment="Left"
+                            VerticalAlignment="Center"
+                            Margin="20,0,0,0">
+                    <Image x:Name="LogoImage" Source="/Assets/images/licon.png" Width="64" Height="64" Margin="0,0,5,0"/>
+                    <TextBlock 
+                        x:Name="LogoText"
+                        Text="krushtype"
+                        Foreground="{DynamicResource MainColorBrush}"
+                        Style="{StaticResource LogoName}"
+                        FontSize="24"/>
+                </StackPanel>
+                
+                <Border Grid.Column="1"
+                        x:Name="NavigationPanel"
+                        HorizontalAlignment="Center" 
+                        VerticalAlignment="Center"
+                        Background="{DynamicResource BgColorBrush}"
+                        CornerRadius="6"
+                        BorderThickness="1"
+                        BorderBrush="{DynamicResource SubAltColorBrush}"
+                        Padding="2">
+                    <StackPanel Orientation="Horizontal">
+                        <RadioButton
+                            GroupName="Navigation"
+                            IsChecked="{Binding CurrentView, ConverterParameter={x:Type vm:typingVM}, Converter={StaticResource ActiveViewToBooleanConverter}, Mode=OneWay}"
+                            Style="{StaticResource MainNavigationButton}"
+                            Command="{Binding TypingCommand}"
+                            Margin="10,0,10,0"
+                            ToolTip="Typing">
+                            <TextBlock Text="typing" VerticalAlignment="Center"/>
+                        </RadioButton>
+                        <RadioButton
+                            GroupName="Navigation"
+                            IsChecked="{Binding CurrentView, ConverterParameter={x:Type vm:accountVM}, Converter={StaticResource ActiveViewToBooleanConverter}, Mode=OneWay}"
+                            Style="{StaticResource MainNavigationButton}"
+                            Command="{Binding AccountCommand}"
+                            Margin="10,0,10,0"
+                            ToolTip="Account">
+                            <TextBlock Text="account" VerticalAlignment="Center"/>
+                        </RadioButton>
+                    </StackPanel>
+                </Border>
+                
+                <StackPanel Grid.Column="2"
+                            x:Name="ThemeTogglePanel"
+                            HorizontalAlignment="Right"
+                            Orientation="Horizontal"
+                            Margin="0,0,20,0">
+                    <controls:ThemeToggleButton VerticalAlignment="Center"/>
+                </StackPanel>
+            </Grid>
+            
+            <Border Grid.Row="1"
+                    Margin="10,0,10,10"
+                    CornerRadius="6"
+                    Background="{DynamicResource BgColorBrush}">
+                <ContentControl Content="{Binding CurrentView}"
+                                Margin="5"/>
+            </Border>
+        </Grid>
+    </Border>
+</Window>

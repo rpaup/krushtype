@@ -1,0 +1,41 @@
+<!-- XAML structure for TestResultsVM -->
+<Grid>
+    <Grid.RowDefinitions>
+        <!-- Define row definitions -->
+        <RowDefinition Height="Auto"/> <!-- Header -->
+        <RowDefinition Height="Auto"/> <!-- WPM row -->
+        <RowDefinition Height="Auto"/> <!-- Accuracy row (moved) -->
+        <RowDefinition Height="Auto"/> <!-- Raw WPM row -->
+        <RowDefinition Height="Auto"/> <!-- Consistency row -->
+        <!-- ... other rows ... -->
+    </Grid.RowDefinitions>
+    
+    <!-- Header section -->
+    <!-- ... existing header code ... -->
+    
+    <!-- WPM section -->
+    <StackPanel Grid.Row="1" Margin="20,10,20,5">
+        <TextBlock Text="WPM" FontSize="16" Foreground="#AAAAAA"/>
+        <TextBlock Text="{Binding WPM}" FontSize="32" FontWeight="Bold"/>
+    </StackPanel>
+    
+    <!-- Accuracy section - moved up to be right after WPM with reduced top margin -->
+    <StackPanel Grid.Row="2" Margin="20,5,20,5">
+        <TextBlock Text="Accuracy" FontSize="16" Foreground="#AAAAAA"/>
+        <TextBlock Text="{Binding Accuracy, StringFormat='{}{0:F2}%'}" FontSize="24" FontWeight="Bold"/>
+    </StackPanel>
+    
+    <!-- Raw WPM section - now at Grid.Row="3" -->
+    <StackPanel Grid.Row="3" Margin="20,5,20,5">
+        <TextBlock Text="Raw WPM" FontSize="16" Foreground="#AAAAAA"/>
+        <TextBlock Text="{Binding RawWPM}" FontSize="24" FontWeight="Bold"/>
+    </StackPanel>
+    
+    <!-- Consistency section -->
+    <StackPanel Grid.Row="4" Margin="20,5,20,5">
+        <TextBlock Text="Consistency" FontSize="16" Foreground="#AAAAAA"/>
+        <TextBlock Text="{Binding Consistency, StringFormat='{}{0:F2}%'}" FontSize="24" FontWeight="Bold"/>
+    </StackPanel>
+    
+    <!-- ... other sections ... -->
+</Grid>

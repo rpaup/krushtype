@@ -1,0 +1,1237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\what\\Desktop\\krushtype\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|c:\\users\\what\\desktop\\krushtype\\ui\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\models\\accountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\assets\\textdata\\words.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:assets\\textdata\\words.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\models\\typingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\models\\typingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\models\\testresultsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\models\\testresultsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\files\\filepathmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\files\\filepathmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\views\\typing.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\views\\typing.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\views\\typing.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\views\\typing.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\views\\testresults.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\views\\testresults.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\views\\testresults.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\views\\testresults.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\views\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\views\\register.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\views\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\views\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\views\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\views\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\views\\authwindownew.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\views\\authwindownew.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\views\\authwindownew.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\views\\authwindownew.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\views\\account.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\views\\account.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\views\\account.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\views\\account.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\usercontrols\\uppertooltip.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\usercontrols\\uppertooltip.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\usercontrols\\uppertooltip.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\usercontrols\\uppertooltip.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\usercontrols\\themetogglebutton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\usercontrols\\themetogglebutton.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\usercontrols\\themetogglebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\usercontrols\\themetogglebutton.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\usercontrols\\recordsinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\usercontrols\\recordsinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\usercontrols\\recordsinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\usercontrols\\recordsinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\usercontrols\\lowertooltip.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\usercontrols\\lowertooltip.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\usercontrols\\lowertooltip.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\usercontrols\\lowertooltip.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\usercontrols\\inputname.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\usercontrols\\inputname.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\usercontrols\\inputname.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\usercontrols\\inputname.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\usercontrols\\exportcsv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\usercontrols\\exportcsv.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\usercontrols\\exportcsv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\usercontrols\\exportcsv.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\styles\\themecolors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\styles\\themecolors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\styles\\textboxstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\styles\\textboxstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\styles\\textblockstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\styles\\textblockstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\styles\\stackpanelstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\styles\\stackpanelstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\styles\\radiobuttonstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\styles\\radiobuttonstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\styles\\mainnavigationbuttonstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\styles\\mainnavigationbuttonstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\styles\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\styles\\lighttheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\styles\\effects.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\styles\\effects.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\styles\\datagridstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\styles\\datagridstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\styles\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\styles\\darktheme.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\styles\\checkboxstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\styles\\checkboxstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\ui\\styles\\buttonstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:ui\\styles\\buttonstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\viewmodels\\typingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\viewmodels\\typingvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\viewmodels\\testresultsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\viewmodels\\testresultsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\viewmodels\\navigationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\viewmodels\\navigationvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\viewmodels\\accountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\viewmodels\\accountvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\mainmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\mainmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\inavigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\graphs\\scattergraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\graphs\\scattergraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\graphs\\scatterbarresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\graphs\\scatterbarresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\graphs\\bargraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\graphs\\bargraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\files\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\files\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\files\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\files\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\files\\jsondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\files\\jsondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\files\\csvdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\files\\csvdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\enums\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\enums\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\converters\\stringtobooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\converters\\stringtobooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\converters\\isrecordconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\converters\\isrecordconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\converters\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\converters\\booleantovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\utilities\\converters\\activeviewtobooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\utilities\\converters\\activeviewtobooleanconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|C:\\Users\\what\\Desktop\\krushtype\\core\\models\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44D88977-937E-44F9-8DE6-AB99BD5B9680}|krushtype.csproj|solutionrelative:core\\models\\usersettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FilePathManager.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\files\\FilePathManager.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\files\\FilePathManager.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\files\\FilePathManager.cs",
+              "RelativeToolTip": "Core\\Utilities\\files\\FilePathManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T22:55:11.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UI\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "UI\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:53:26.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "typing.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\typing.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Views\\typing.xaml.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\typing.xaml.cs",
+              "RelativeToolTip": "UI\\Views\\typing.xaml.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAEwGMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:56:04.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "typingmodel.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Models\\typingmodel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\typingmodel.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Models\\typingmodel.cs",
+              "RelativeToolTip": "Core\\Models\\typingmodel.cs",
+              "ViewState": "AgIAAGsBAAAAAAAAAAAlwIEBAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:02:46.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestResultsModel.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Models\\TestResultsModel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\TestResultsModel.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Models\\TestResultsModel.cs",
+              "RelativeToolTip": "Core\\Models\\TestResultsModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:02:36.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:58:16.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Models\\User.cs",
+              "RelativeToolTip": "Core\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:16:09.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "words.txt",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Assets\\textdata\\words.txt",
+              "RelativeDocumentMoniker": "Assets\\textdata\\words.txt",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Assets\\textdata\\words.txt",
+              "RelativeToolTip": "Assets\\textdata\\words.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-22T21:00:09.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountModel.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Models\\AccountModel.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\AccountModel.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Models\\AccountModel.cs",
+              "RelativeToolTip": "Core\\Models\\AccountModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwEcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:00:18.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "typing.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\typing.xaml",
+              "RelativeDocumentMoniker": "UI\\Views\\typing.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\typing.xaml",
+              "RelativeToolTip": "UI\\Views\\typing.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:55:12.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\App.xaml",
+              "RelativeDocumentMoniker": "UI\\App.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\App.xaml",
+              "RelativeToolTip": "UI\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:57:15.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\App.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\App.xaml.cs",
+              "RelativeToolTip": "UI\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:57:32.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:57:50.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-22T21:57:41.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "Properties\\Settings.Designer.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:58:37.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-22T21:57:44.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-22T21:58:14.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TestResults.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\TestResults.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Views\\TestResults.xaml.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\TestResults.xaml.cs",
+              "RelativeToolTip": "UI\\Views\\TestResults.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:55:08.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TestResults.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\TestResults.xaml",
+              "RelativeDocumentMoniker": "UI\\Views\\TestResults.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\TestResults.xaml",
+              "RelativeToolTip": "UI\\Views\\TestResults.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:54:36.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Register.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\Register.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Views\\Register.xaml.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\Register.xaml.cs",
+              "RelativeToolTip": "UI\\Views\\Register.xaml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAwwEgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:54:23.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\Register.xaml",
+              "RelativeDocumentMoniker": "UI\\Views\\Register.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\Register.xaml",
+              "RelativeToolTip": "UI\\Views\\Register.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:53:59.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UI\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAA4wHMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:53:43.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "Properties\\Settings.settings",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Properties\\Settings.settings",
+              "RelativeToolTip": "Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-05-22T21:58:32.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Views\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\Login.xaml.cs",
+              "RelativeToolTip": "UI\\Views\\Login.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:53:14.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\Login.xaml",
+              "RelativeDocumentMoniker": "UI\\Views\\Login.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\Login.xaml",
+              "RelativeToolTip": "UI\\Views\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:52:53.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthWindowNew.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\AuthWindowNew.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Views\\AuthWindowNew.xaml.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\AuthWindowNew.xaml.cs",
+              "RelativeToolTip": "UI\\Views\\AuthWindowNew.xaml.cs",
+              "ViewState": "AgIAAAICAAAAAAAAAAAAwCQCAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:51:07.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthWindowNew.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\AuthWindowNew.xaml",
+              "RelativeDocumentMoniker": "UI\\Views\\AuthWindowNew.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\AuthWindowNew.xaml",
+              "RelativeToolTip": "UI\\Views\\AuthWindowNew.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:48:02.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "account.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\account.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Views\\account.xaml.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\account.xaml.cs",
+              "RelativeToolTip": "UI\\Views\\account.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:47:12.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "account.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\account.xaml",
+              "RelativeDocumentMoniker": "UI\\Views\\account.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Views\\account.xaml",
+              "RelativeToolTip": "UI\\Views\\account.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:44:16.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UpperToolTip.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\UpperToolTip.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\UserControls\\UpperToolTip.xaml.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\UpperToolTip.xaml.cs",
+              "RelativeToolTip": "UI\\UserControls\\UpperToolTip.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:44:06.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UpperToolTip.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\UpperToolTip.xaml",
+              "RelativeDocumentMoniker": "UI\\UserControls\\UpperToolTip.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\UpperToolTip.xaml",
+              "RelativeToolTip": "UI\\UserControls\\UpperToolTip.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:44:00.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ThemeToggleButton.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\ThemeToggleButton.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\UserControls\\ThemeToggleButton.xaml.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\ThemeToggleButton.xaml.cs",
+              "RelativeToolTip": "UI\\UserControls\\ThemeToggleButton.xaml.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAAwJEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:43:37.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ThemeToggleButton.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\ThemeToggleButton.xaml",
+              "RelativeDocumentMoniker": "UI\\UserControls\\ThemeToggleButton.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\ThemeToggleButton.xaml",
+              "RelativeToolTip": "UI\\UserControls\\ThemeToggleButton.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:43:29.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RecordsInfo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\RecordsInfo.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\UserControls\\RecordsInfo.xaml.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\RecordsInfo.xaml.cs",
+              "RelativeToolTip": "UI\\UserControls\\RecordsInfo.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAcwBgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:43:23.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RecordsInfo.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\RecordsInfo.xaml",
+              "RelativeDocumentMoniker": "UI\\UserControls\\RecordsInfo.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\RecordsInfo.xaml",
+              "RelativeToolTip": "UI\\UserControls\\RecordsInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:42:54.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LowerToolTip.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\LowerToolTip.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\UserControls\\LowerToolTip.xaml.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\LowerToolTip.xaml.cs",
+              "RelativeToolTip": "UI\\UserControls\\LowerToolTip.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:42:49.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "LowerToolTip.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\LowerToolTip.xaml",
+              "RelativeDocumentMoniker": "UI\\UserControls\\LowerToolTip.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\LowerToolTip.xaml",
+              "RelativeToolTip": "UI\\UserControls\\LowerToolTip.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:42:45.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "inputname.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\inputname.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\UserControls\\inputname.xaml.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\inputname.xaml.cs",
+              "RelativeToolTip": "UI\\UserControls\\inputname.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:42:37.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ExportCSV.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\ExportCSV.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\UserControls\\ExportCSV.xaml.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\ExportCSV.xaml.cs",
+              "RelativeToolTip": "UI\\UserControls\\ExportCSV.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:42:14.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "inputname.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\inputname.xaml",
+              "RelativeDocumentMoniker": "UI\\UserControls\\inputname.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\inputname.xaml",
+              "RelativeToolTip": "UI\\UserControls\\inputname.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:42:12.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ExportCSV.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\ExportCSV.xaml",
+              "RelativeDocumentMoniker": "UI\\UserControls\\ExportCSV.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\UserControls\\ExportCSV.xaml",
+              "RelativeToolTip": "UI\\UserControls\\ExportCSV.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:41:39.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ThemeColors.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\ThemeColors.xaml",
+              "RelativeDocumentMoniker": "UI\\Styles\\ThemeColors.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\ThemeColors.xaml",
+              "RelativeToolTip": "UI\\Styles\\ThemeColors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:41:33.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "textboxstyle.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\textboxstyle.xaml",
+              "RelativeDocumentMoniker": "UI\\Styles\\textboxstyle.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\textboxstyle.xaml",
+              "RelativeToolTip": "UI\\Styles\\textboxstyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:41:25.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "textblockstyle.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\textblockstyle.xaml",
+              "RelativeDocumentMoniker": "UI\\Styles\\textblockstyle.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\textblockstyle.xaml",
+              "RelativeToolTip": "UI\\Styles\\textblockstyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:40:58.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "stackpanelstyle.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\stackpanelstyle.xaml",
+              "RelativeDocumentMoniker": "UI\\Styles\\stackpanelstyle.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\stackpanelstyle.xaml",
+              "RelativeToolTip": "UI\\Styles\\stackpanelstyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:40:56.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "radiobuttonstyle.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\radiobuttonstyle.xaml",
+              "RelativeDocumentMoniker": "UI\\Styles\\radiobuttonstyle.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\radiobuttonstyle.xaml",
+              "RelativeToolTip": "UI\\Styles\\radiobuttonstyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:40:48.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MainNavigationButtonStyle.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\MainNavigationButtonStyle.xaml",
+              "RelativeDocumentMoniker": "UI\\Styles\\MainNavigationButtonStyle.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\MainNavigationButtonStyle.xaml",
+              "RelativeToolTip": "UI\\Styles\\MainNavigationButtonStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:40:46.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LightTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\LightTheme.xaml",
+              "RelativeDocumentMoniker": "UI\\Styles\\LightTheme.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\LightTheme.xaml",
+              "RelativeToolTip": "UI\\Styles\\LightTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:40:42.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Effects.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\Effects.xaml",
+              "RelativeDocumentMoniker": "UI\\Styles\\Effects.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\Effects.xaml",
+              "RelativeToolTip": "UI\\Styles\\Effects.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:40:39.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DataGridstyle.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\DataGridstyle.xaml",
+              "RelativeDocumentMoniker": "UI\\Styles\\DataGridstyle.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\DataGridstyle.xaml",
+              "RelativeToolTip": "UI\\Styles\\DataGridstyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:40:30.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "DarkTheme.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\DarkTheme.xaml",
+              "RelativeDocumentMoniker": "UI\\Styles\\DarkTheme.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\DarkTheme.xaml",
+              "RelativeToolTip": "UI\\Styles\\DarkTheme.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:40:24.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "checkboxstyle.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\checkboxstyle.xaml",
+              "RelativeDocumentMoniker": "UI\\Styles\\checkboxstyle.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\checkboxstyle.xaml",
+              "RelativeToolTip": "UI\\Styles\\checkboxstyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:40:16.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "buttonstyle.xaml",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\buttonstyle.xaml",
+              "RelativeDocumentMoniker": "UI\\Styles\\buttonstyle.xaml",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\UI\\Styles\\buttonstyle.xaml",
+              "RelativeToolTip": "UI\\Styles\\buttonstyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-22T21:39:53.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ThemeManager.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\ThemeManager.cs",
+              "RelativeDocumentMoniker": "Core\\ThemeManager.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\ThemeManager.cs",
+              "RelativeToolTip": "Core\\ThemeManager.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAuwNMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:32:25.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "typingVM.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\ViewModels\\typingVM.cs",
+              "RelativeDocumentMoniker": "Core\\ViewModels\\typingVM.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\ViewModels\\typingVM.cs",
+              "RelativeToolTip": "Core\\ViewModels\\typingVM.cs",
+              "ViewState": "AgIAAFUDAAAAAAAAAAAQwG8DAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:32:25.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TestResultsVM.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\ViewModels\\TestResultsVM.cs",
+              "RelativeDocumentMoniker": "Core\\ViewModels\\TestResultsVM.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\ViewModels\\TestResultsVM.cs",
+              "RelativeToolTip": "Core\\ViewModels\\TestResultsVM.cs",
+              "ViewState": "AgIAAJ8AAAAAAAAAAAAYwK0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:31:59.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Core\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "Core\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAA7wJQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:30:37.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "navigationVM.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\ViewModels\\navigationVM.cs",
+              "RelativeDocumentMoniker": "Core\\ViewModels\\navigationVM.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\ViewModels\\navigationVM.cs",
+              "RelativeToolTip": "Core\\ViewModels\\navigationVM.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAQwHUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:29:31.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Core\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "Core\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAYwGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:29:15.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "accountVM.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\ViewModels\\accountVM.cs",
+              "RelativeDocumentMoniker": "Core\\ViewModels\\accountVM.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\ViewModels\\accountVM.cs",
+              "RelativeToolTip": "Core\\ViewModels\\accountVM.cs",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAIwPUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:27:38.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\RelayCommand.cs",
+              "RelativeToolTip": "Core\\Utilities\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:27:33.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\NavigationService.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\NavigationService.cs",
+              "RelativeToolTip": "Core\\Utilities\\NavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:27:28.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "MainModelView.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\MainModelView.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\MainModelView.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\MainModelView.cs",
+              "RelativeToolTip": "Core\\Utilities\\MainModelView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:27:23.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "INavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\INavigationService.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\INavigationService.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\INavigationService.cs",
+              "RelativeToolTip": "Core\\Utilities\\INavigationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:27:18.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "ScatterGraph.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\graphs\\ScatterGraph.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\graphs\\ScatterGraph.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\graphs\\ScatterGraph.cs",
+              "RelativeToolTip": "Core\\Utilities\\graphs\\ScatterGraph.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAYwMQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:25:23.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ScatterBarResults.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\graphs\\ScatterBarResults.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\graphs\\ScatterBarResults.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\graphs\\ScatterBarResults.cs",
+              "RelativeToolTip": "Core\\Utilities\\graphs\\ScatterBarResults.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAmwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:23:21.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "BarGraph.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\graphs\\BarGraph.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\graphs\\BarGraph.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\graphs\\BarGraph.cs",
+              "RelativeToolTip": "Core\\Utilities\\graphs\\BarGraph.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwGgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:22:24.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "UserSettings.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\files\\UserSettings.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\files\\UserSettings.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\files\\UserSettings.cs",
+              "RelativeToolTip": "Core\\Utilities\\files\\UserSettings.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAiwJIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:21:50.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\files\\UserManager.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\files\\UserManager.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\files\\UserManager.cs",
+              "RelativeToolTip": "Core\\Utilities\\files\\UserManager.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAUwBMBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:21:04.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "JsonData.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\files\\JsonData.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\files\\JsonData.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\files\\JsonData.cs",
+              "RelativeToolTip": "Core\\Utilities\\files\\JsonData.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAswIgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:20:04.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "CSVData.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\files\\CSVData.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\files\\CSVData.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\files\\CSVData.cs",
+              "RelativeToolTip": "Core\\Utilities\\files\\CSVData.cs",
+              "ViewState": "AgIAAF4CAAAAAAAAAAAAwHcCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:18:19.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\enums\\State.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\enums\\State.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\enums\\State.cs",
+              "RelativeToolTip": "Core\\Utilities\\enums\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:18:04.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "StringToBooleanConverter.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\Converters\\StringToBooleanConverter.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Converters\\StringToBooleanConverter.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\Converters\\StringToBooleanConverter.cs",
+              "RelativeToolTip": "Core\\Utilities\\Converters\\StringToBooleanConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:17:59.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IsRecordConverter.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\Converters\\IsRecordConverter.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Converters\\IsRecordConverter.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\Converters\\IsRecordConverter.cs",
+              "RelativeToolTip": "Core\\Utilities\\Converters\\IsRecordConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:17:56.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "BooleanToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\Converters\\BooleanToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Converters\\BooleanToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\Converters\\BooleanToVisibilityConverter.cs",
+              "RelativeToolTip": "Core\\Utilities\\Converters\\BooleanToVisibilityConverter.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:17:51.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ActiveViewToBooleanConverter.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\Converters\\ActiveViewToBooleanConverter.cs",
+              "RelativeDocumentMoniker": "Core\\Utilities\\Converters\\ActiveViewToBooleanConverter.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Utilities\\Converters\\ActiveViewToBooleanConverter.cs",
+              "RelativeToolTip": "Core\\Utilities\\Converters\\ActiveViewToBooleanConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:17:46.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "UserSettings.cs",
+              "DocumentMoniker": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Models\\UserSettings.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\UserSettings.cs",
+              "ToolTip": "C:\\Users\\what\\Desktop\\krushtype\\Core\\Models\\UserSettings.cs",
+              "RelativeToolTip": "Core\\Models\\UserSettings.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAiwJ8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T21:16:47.356Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
